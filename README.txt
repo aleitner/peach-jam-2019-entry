@@ -1,5 +1,7 @@
 Fan Expectation Management Sim - please temper your expectations
 
+This game was designed and programmed in 24 hours for the 2019 Peach Jam. It was written in golang using the ebiten library.
+
 Table of Contents
 1.0 Quick Intro
 1.1 Long Intro
